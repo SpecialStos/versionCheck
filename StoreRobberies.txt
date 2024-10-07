@@ -1,1 +1,4 @@
-2.6.5
+2.7.0
+* Resource rewrite to incorporate cis_lib.
+* Various bug-fixes.
+* Resource optimization.
