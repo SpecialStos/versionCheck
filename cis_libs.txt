@@ -1,0 +1,3 @@
+0.1.0 
+* This is the official release of cis_libs.
+* Huge improvements will be conducted in the following months.
